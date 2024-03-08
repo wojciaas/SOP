@@ -1,0 +1,5 @@
+#!/binREAD$0
+
+echo $FILE
+
+exit 0
